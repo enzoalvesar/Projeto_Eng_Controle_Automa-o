@@ -10,11 +10,12 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/MarkusVinnicius">
+      <a href="https://github.com/MarkusVinnicius"
         <sub>
-          <b>Markus Vinnicius</b>
+        <b>Markus Vinnicius</b>
+        </sub>
           <td align="center">
-      <a href="https://github.com/Minerororu">
+      <a href="https://github.com/Minerororu"
         <sub>
           <b>Pedro Lucas</b>
         </sub>
