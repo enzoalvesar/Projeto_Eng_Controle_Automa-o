@@ -14,7 +14,9 @@ O sensor ultrassônico monitora continuamente a distância do ambiente à sua fr
 * Servomotor SG90
 * Sensor Ultrassônico
 * Display OLED
-* Protoboard e Jumpers de conexão## 👥 Participantes
+* Protoboard e Jumpers de conexão
+
+## 👥 Participantes
 
 <table align="center">
   <tr>
