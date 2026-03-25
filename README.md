@@ -10,15 +10,13 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/UserDele">
-        <img src="https://github.com/UserDele.png" width="100px;" style="border-radius: 50%;" alt="Foto do Colega"/><br>
+      <a href="https://github.com/MarkusVinnicius">
         <sub>
-          <b>Nome do Parceiro</b>
+          <b>Markus Vinnicius</b>
           <td align="center">
-      <a href="https://github.com/UserDele">
-        <img src="https://github.com/UserDele.png" width="100px;" style="border-radius: 50%;" alt="Foto do Colega"/><br>
+      <a href="https://github.com/Minerororu">
         <sub>
-          <b>Nome do Parceiro</b>
+          <b>Pedro Lucas</b>
         </sub>
       </a>
     </td>
